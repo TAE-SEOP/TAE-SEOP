@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### 🍿Some small facts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=styy1124)](https://velog.io/@styy1124) 
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=styy1124&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
