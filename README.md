@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=styy1124)](https://solved.ac/styy1124/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=TAE-SEOP)](https://solved.ac/styy1124/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=styy1124&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=styy1124&layout=compact)](https://github.com/styy1124/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TAE-SEOP&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAE-SEOP&layout=compact)](https://github.com/TAE-SEOP/github-readme-stats)
